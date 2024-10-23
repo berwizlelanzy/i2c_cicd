@@ -9,3 +9,7 @@ Route::get('/', function () {
 Route::get("/minji", function () {
     return view("minji");
 });
+
+Route::get("/haerin", function () {
+    return view("haerin");
+});
