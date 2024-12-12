@@ -7,6 +7,6 @@
     <title>Test Welcome Page</title>
 </head>
 <body>
-    <h1>Welcome page from Development Branch</h1>
+    <h1>Welcome page from Development Branch 2</h1>
 </body>
 </html>
